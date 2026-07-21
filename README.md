@@ -1,6 +1,12 @@
 <br clear="both">
 
-<h1 data-importer="text" align="center">if (sucesso == null) { tentarNovamente(); }</h1>
+<h1 align="center">
+  if (sucesso == null) { tentarNovamente(); }
+</h1>
+
+<p align="center">
+  <i>Transformando desafios em código, uma tentativa de cada vez.</i>
+</p>
 
 ###
 
