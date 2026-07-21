@@ -1,12 +1,8 @@
 <br clear="both">
 
 <h1 align="center">
-  if (sucesso == null) { tentarNovamente(); }
+  <code>if (sucesso == null) { tentarNovamente(); }</code>
 </h1>
-
-<p align="center">
-  <i>Transformando desafios em código, uma tentativa de cada vez.</i>
-</p>
 
 ###
 
