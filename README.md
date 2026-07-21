@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">
-  &gt; if (sucesso == null) { tentarNovamente(); }
+  <code>if (sucesso == null) { tentarNovamente(); }</code>
 </h1>
 
 ###
